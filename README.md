@@ -15,8 +15,7 @@ I'm currently working on open source projects.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VarshaSingh-343&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=VarshaSingh-343&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
